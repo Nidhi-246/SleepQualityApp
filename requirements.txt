@@ -5,3 +5,6 @@ plotly
 joblib
 opencv-python-headless
 pillow
+scikit-learn
+
+
