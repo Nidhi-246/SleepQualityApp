@@ -1,0 +1,7 @@
+streamlit==1.27.0
+numpy
+pandas
+plotly
+joblib
+opencv-python-headless
+pillow
